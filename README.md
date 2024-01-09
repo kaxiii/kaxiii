@@ -10,7 +10,7 @@
 </table>
 
 
-
+<a href="https://u8views.com/github/kaxiii"><img src="https://u8views.com/api/v1/github/profiles/15610911/views/day-week-month-total-count.svg"></a>
 
 
 <!--
