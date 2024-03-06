@@ -10,8 +10,6 @@
 </table>
 
 
-<a href="https://u8views.com/github/kaxiii"><img src="https://u8views.com/api/v1/github/profiles/15610911/views/day-week-month-total-count.svg"></a>
-
 
 <!--
 **kaxiii/kaxiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
